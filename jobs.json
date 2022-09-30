@@ -328,4 +328,16 @@
 "contactEmail" : "diyagandhisb@gmail.com"
  
  }
+  {
+ 
+  
+"id" : "44",
+
+"companyName " : "tcs",
+
+"position" : "Full stack Developer",
+
+"requirements" : "Html, CSS, JavaScript, react js , mongo DB, ejs, DSA, DBMS",
+
+"contactEmail" : "adityabhagwat357@gmail.com"},
 ]
